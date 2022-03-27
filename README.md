@@ -4,3 +4,4 @@ python -m venv venv
 
 aktywacja środowiska
 .\venv\Scripts\activate
+
